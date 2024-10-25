@@ -139,6 +139,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/numpy-mongard
 
 # mypy
 .mypy_cache/
